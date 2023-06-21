@@ -1,0 +1,5 @@
+1676974212438	Rename package 'com.nt.controller'
+1676974222315	Rename package 'com.nt.frontcontroller'
+1676978536397	Delete element
+1676978564112	Move 'show_languages.jsp' to 'webapp'
+1676978566875	Move 'show_wish.jsp' to 'webapp'
